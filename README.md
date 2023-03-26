@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Lucie</h1>
+<h3 align="center">A passionate fullstack developer from France</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uffoltzl&show_icons=true&locale=en&layout=compact" alt="uffoltzl" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uffoltzl&show_icons=true&locale=en" alt="uffoltzl" /></p>
 
 <!--
 **uffoltzl/uffoltzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
