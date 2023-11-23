@@ -5,6 +5,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uffoltzl&show_icons=true&locale=en" alt="uffoltzl" /></p>
 
+<br/><br/>
+<p><i>Profile picture drawn by PARK Jin-Hyung</i></p>
+
 <!--
 **uffoltzl/uffoltzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
